@@ -18,9 +18,7 @@ Homepage: https://yangling0818.github.io/
 
 Google Scholar: https://scholar.google.com.hk/citations?user=sIKujqAAAAAJ&hl=en
 
-E-Mail: yangling0818@163.com
-
-Twitter: https://twitter.com/LingYang_PKU
+E-Mail: yangling0818@163.com 
 
 WeChat: jifengjianhao_yl
 
