@@ -22,4 +22,4 @@ E-Mail: yangling0818@163.com
 
 WeChat: jifengjianhao_yl
 
-Our lab is looking for self-motivated interns, feel free to reach out with your CV!
+We have opening positions for PhDs, Masters and Research Interns (not limited to PKU and Princeton University). Also, I am in charge of a reasearch team and have led a series of works on Diffusion Models and LLMs. Interested persons please contact me directly!
