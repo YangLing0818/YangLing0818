@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-<!--
+
 Homepage: https://yangling0818.github.io/
 
 Google Scholar: https://scholar.google.com.hk/citations?user=sIKujqAAAAAJ&hl=en
@@ -23,5 +23,5 @@ E-Mail: yangling0818@163.com
 
 WeChat: jifengjianhao_yl
 
-We have opening positions for PhDs, Masters and Research Interns (not limited to PKU and Princeton University). Also, I am in charge of a reasearch team and have led a series of works on Diffusion Models and LLMs. Interested persons please contact me directly!
---> 
+We have opening positions for PhDs, Masters and Research Interns. Also, I am in charge of a reasearch team and have led a series of works on Diffusion Models and LLMs. Interested persons please contact me directly!
+
