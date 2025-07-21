@@ -15,15 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-Homepage: https://yangling0818.github.io/
-
-Google Scholar: https://scholar.google.com.hk/citations?user=sIKujqAAAAAJ&hl=en
-
-Group Page: https://github.com/Gen-Verse 
-
-E-Mail: yangling0818@163.com 
-
-WeChat: jifengjianhao_yl
+[Homepage](https://yangling0818.github.io/) | [Google Scholar](https://scholar.google.com.hk/citations?user=sIKujqAAAAAJ&hl=en) | [Group Page](https://github.com/Gen-Verse) | [E-Mail](yangling0818@163.com)
 
 I am a Postdoc at Princeton University. We have opening positions for PhDs, Masters and Research Interns. Also, I am in charge of a reasearch team and have led a series of works on Diffusion Models and LLMs. Interested persons please contact me directly!
 
