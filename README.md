@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 [Homepage](https://yangling0818.github.io/) | [Google Scholar](https://scholar.google.com.hk/citations?user=sIKujqAAAAAJ&hl=en) | [Group Page](https://github.com/Gen-Verse) | [Huggingface](https://huggingface.co/Gen-Verse) | [E-Mail](yangling0818@163.com)
 
-I am a Postdoc at Princeton University. We have opening positions for PhDs, Masters and Research Interns. Also, I am in charge of a reasearch team and have led a series of works on Diffusion Models and LLMs. Interested persons please contact me directly!
-
+I am a Postdoc Fellow at Princeton University. **<font color=red>We are looking for self-motivated students and insightful collaborators to for research in LLM/MLLM Post-Training, Diffusion LLMs, World Modeling, Agent Training</font>**. Please feel free to reach out for potential collaborations or discussions via [Email](mailto:yangling0818@163.com) or [WeChat](./image-1.png). When contacting, please include a brief self-introduction or attach your CV for meaningful exchange.  
